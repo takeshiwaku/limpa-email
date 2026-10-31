@@ -1,0 +1,16 @@
+# Nunca comitar credenciais
+.env
+
+# Dados pessoais (contatos, listas de emails) - nao versionar
+*_contacts.csv
+contatos.csv
+contatos.vcf
+lista_pessoal.txt
+lista-email-excluir.txt
+lista.txt
+incluir_lista_spam.txt
+*_spam.txt
+
+# Python
+__pycache__/
+*.pyc
